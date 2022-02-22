@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene Elizabeth by the grace of God queene of England, Fraunce, and Ireland ... Whereas we by our letters patents dated at Westminster the fourth day of Iune in the twenteth yeare of our raigne, did give ...authoritie to ... Raffe Bowes and Thomas Beddingfield ...</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1588</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21846</idno>
+            <idno type="STC">STC 8171</idno>
+            <idno type="STC">ESTC S3737</idno>
+            <idno type="EEBO-CITATION">33150876</idno>
+            <idno type="OCLC">ocm 33150876</idno>
+            <idno type="VID">28796</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21846)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28796)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1874:91)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene Elizabeth by the grace of God queene of England, Fraunce, and Ireland ... Whereas we by our letters patents dated at Westminster the fourth day of Iune in the twenteth yeare of our raigne, did give ...authoritie to ... Raffe Bowes and Thomas Beddingfield ...</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>3 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>By Thomas Purfoote,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[1588]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>For granting 12-year patent for sole import of playing cards.</note>
+                  <note>Regnal year of last sheet is misprinted "thirtenth" for "thirtieth".</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Playing cards --  Law and legislation --  England.</term>
+               <term>Exclusive licenses --  England.</term>
+               <term>Great Britain --  Commerical policy --  16th century.</term>
+               <term>Great Britain --  History --  Elizabeth, 1558-1603.</term>
+               <term>Broadsides --  London (England) --  16th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:28796:1"/>
+            <pb facs="tcp:28796:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal coat of arms</figDesc>
+                  <p>E R</p>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+               </figure>
+            </head>
+            <head>By the Queene.</head>
+            <opener>
+               <signed>
+                  <hi>
+                     <seg rend="decorInit">E</seg>LIZABETH</hi> By the grace of God Queene of <hi>England, Fraunce,</hi> and <hi>Ireland,</hi> defender of the Faith &amp;c.</signed>
+               <salute>TO all to whome theſe preſentes ſhall come greeting.</salute>
+            </opener>
+            <p>WHEREAS we by our letters patents dated at Weſtminſter the fourth day of Iune in the twenteth yeare of our Raigne did giue &amp; graunt full power, licence and authoritie to our welbeloued Seruaunts <hi>Raffe Bowes,</hi> and <hi>Thomas Beddingfield</hi> Eſ<g ref="char:EOLhyphen"/>quiors and to their aſſignes that they by themſelues or their ſaide aſſignes or the Ser<g ref="char:EOLhyphen"/>uaunts, Factors, or deputies of them or their aſſignes or any of them as well Eng<g ref="char:EOLhyphen"/>liſhmen, Denizens as ſtraungers being with vs in league and amitie from and after the date of the ſaid letters patentes vnto the ende and tearme of twelue yeares then next and immediately following ſhould and might prouide and buye in any the par<g ref="char:EOLhyphen"/>ties beyond the Seas being with vs in amitie all and euery ſorts of playing Cardes as they or any of them ſhould thinke good and the ſame cardes from time to time to bring or ſend or cauſe to be brought or ſent or tranſported by any manner of meanes into this our Realme or any our dominions there to vtter ſell and di<g ref="char:EOLhyphen"/>ſtribute the ſame in groſſe or by retale to their moſt commoditie without incurring any manner of penaltie, forfeiture or daunger. Any Ordinaunce Acte Statute reſtraint prohibicion lawe cuſtome or vſage thertofore had made or vſed to the contrarie in any wiſe or by any meanes notwithſtanding. AND that the ſaide <hi>Raffe Bowes</hi> and <hi>Thomas Bed<g ref="char:EOLhyphen"/>dingfield</hi> and their aſſignes and the Seruauntes, Factours and deputies of them and their aſſignes onely ſhould haue and enioye by force of the ſame letters patents the whole trade and trafficque and merchaundiſe of playing cardes du<g ref="char:EOLhyphen"/>ring the ſaid tearme. AND therefore by our ſaide letters patents wee did in moſt ſtraite manner charge, reſtraine, commaunde and forbid all perſon and perſons of what eſtate, degree, or condicion ſoeuer the ſame ſhould be that none of them during the ſaid tearme of twelue yeares as aforeſaide other then the ſaide <hi>Raffe Bowes</hi> and <hi>Thomas Beddingfield</hi> and their aſſignes and their Seruauntes Factors and deputies at their or any of their appointment ſhoulde bring or ſende or cauſe to be brought ſent tranſported or laide on lande by any manner of meanes or colour into this our Realme or into anye of our Dominions any manner of playing cardes nor during the ſaide tearme ſhoulde merchandize, buye, ſell, giue diſtribute or deliuer out or keepe or offer to ſell or put to ſale in anye ſhoppe, warehouſe, ſeller, ſoller, ſtan<g ref="char:EOLhyphen"/>ding boothe or anye other place anie manner of playing Cardes nor ſhould make or cauſe to bee made anye playing Cardes within this our Realme or Dominions during the ſaide tearme contrarye to the intent and true meaning of the ſayde letters patentes. As by oure ſayde letters patentes amongeſt diuers other thinges it dothe and maye at large appeare.</p>
+            <p>NOUUE knowe yee that in conſideration aſwell that the ſaide <hi>Raffe Bowes</hi> and <hi>Thomas Beddingfield</hi> haue ſurrendred the ſayde letters pattentes into our Courte of Chauncerye to bee cancelled to the intent that a newe letters pattentes of the premiſſes maie bee made. As alſo for ſundrye other good cauſes vs thereunto moouing and in conſideration of the ſumme of one hundreth markes of currant money of this our Ralme to be paide by our welbeloued ſeruaunt <hi>Raffe Bowes</hi> Eſquior or his aſſignes to vs our heires and ſucceſſours yearely into the receipte of our Exchequor at the feaſte of the Annunciation of our Ladye or within one moneth after at one entire payment du<g ref="char:EOLhyphen"/>ring all the yeares mencioned in this our graunt for the true payment whereof he hath entred into bandes into our Courte of Exchequor before our Barons there. VVE haue giuen and graunted and by theſe preſentes for vs our heires and ſucceſſors of our eſpeciall grace certen knowledge and meere motion doe giue and graunt vnto our ſayde ſeruaunt <hi>Raffe Bowes</hi> and to his aſſignes full power licence and authoritye that hee by himſelfe or by his ſaid aſſignes
+<pb facs="tcp:28796:2"/>
+               <pb facs="tcp:28796:2"/>and by the Seruaunts Factors or deputies of them or their aſſignes or anye of them aſwell Engliſhmen Denizens as ſtraungers being with vs in league and amitie ſhall and may prouide and buye in any of the partes beyond the Seaes being with vs in amitie all and euerie ſuch ſortes of playing Cardes as hee the ſaide <hi>Raffe Bowes</hi> or his aſſignes or his or their ſeruauntes deputies or factors ſhall thinke good. And the ſame Cardes from time to time to bring or ſend or cauſe to be brought or ſent and tranſported by any maner of meanes into this our Realme or any other our Dominions there to vtter ſell and diſtribute the ſame in groſſe or by retale to his or their moſt commodity without incurring any manner of penalty forfeiture or danger for the ſame any Ordinance Acte Statute reſtraint prohibicion lawe cuſtome or vſage heretofore had made or vſed to the contrarie in any wiſe or by any meanes notwithſtanding. AND that the ſaide <hi>Raffe Bowes</hi> and his aſſignes and his and their Seruauntes Factors and deputies onely ſhall haue and enioye by force hereof the whole trade trafficque and merchandize of all maner of playing Cardes whatſoeuer. AND moreouer of our eſpeciall grace certaine knowledge and meere mocion we do further graunt vnto the ſaide <hi>Raffe Bowes</hi> and to his aſſignes and to ſuch perſon and perſons as he the ſame <hi>Raffe</hi> or his aſſignes ſhall nominate and appoint in that behalfe that hee the ſame <hi>Raffe Bowes</hi> and his aſſignes and ſuch other perſon and perſons as hee the ſame <hi>Raffe Bowes</hi> or his aſ<g ref="char:EOLhyphen"/>ſignes ſhall ſo nominate and appoint, and no other ſhall haue the making of playing Cards within this our Realme and other our Dominions.</p>
+            <p>TO haue hold exerciſe &amp; enioy the ſaide trade trafficque and making of playing Cardes according to the purporte meaning and intent of this our preſent graunt licence and priuiledge vnto the ſaide <hi>Raffe Bowes</hi> his executours and aſ<g ref="char:EOLhyphen"/>ſignes onely from the date of theſe preſentes for and during the full and whole tearme of twelue yeares from thence next and immediately enſuing and fully to be complete and ended. AND foraſmuch as wee are deſirous and fullye minded that the ſaid <hi>Raffe Bowes</hi> and his aſſignes and deputies ſhall haue receaue and take the full and whole benefite profite and commoditie of all the playing Cardes ſo to be made or brought into this Realme or any other our Domini<g ref="char:EOLhyphen"/>ons during the tearme aforeſaid, we doe by theſe preſentes for vs our heires and ſucceſſours in moſt ſtrait maner and wiſe, charge, reſtraine, commaunde and forbid all perſon and perſons of what eſtate, degree, or condicion ſoeuer the ſame be that none of them during the ſaid tearme of twelue yeares as aforeſaid other then the ſaide <hi>Raffe Bowes</hi> and his aſſignes or his or their Seruants Factors and deputies at his or their appointment ſhall bring or ſende or cauſe to bee brought ſent tranſported or laide on lande, by any manner of meanes or colour into this our Realme or into anye our Dominions any maner of playing Cards nor during the ſaid tearme ſhal Merchandiſe, buy, ſell, giue, diſtribute, or deli<g ref="char:EOLhyphen"/>uer out, or keepe, or offer to ſell or put to ſale, or to vtter in any ſhoppe, warehouſe, ſeller, or ſoller, ſtanding boothe or anye other place whatſoeuer, any maner of playing Cardes, nor ſhall make or cauſe to be made any maner of playing Cardes within this our Realme or Dominions of any ſorte or faſhion whatſoeuer, during the ſaid tearme contrarie to the true meaning and intent of this our graunte, or of any lawe, ſtatute or reſtraint in that caſe made and prouided vppon paine that euerie perſon offending againſt the true meaning of the ſame, not onely to incurre our highe and grieuous diſplea<g ref="char:EOLhyphen"/>ſure and to ſuffer ſuch fine and puniſhment as offendors in caſes of wilfull contempt do deſerue, but alſo ſhall forfeite &amp; paye the ſumme of tenne ſhillinges of currant money of England for euery groſſe of playing Cardes which any ſuche perſon ſhall bring in, buye, ſell merchandiſe keepe or ſet to ſale or ſhall make or cauſe to bee made contrarye to this our graunte. And ſhall likewiſe forfeite all the ſaide playing Cardes ſo to be brought in bought ſolde kept made or ſet to ſale contrary to the true meaning and intent of theſe preſents, and whatſoeuer alſo is or ought to be forfeite by any lawe or ſtatute in ſuch caſe made or prouided. The one halfe of which forfeiture to be to vs our heires and ſucceſſors and the o<g ref="char:EOLhyphen"/>ther halfe we giue and graunt for vs our heires and ſucceſſours by theſe our letters patents vnto our ſaide ſeruant and his aſſignes. And for the more ſure and better execution of this our graunt we haue giuen and appointed and heereby doe giue and appoint vnto our ſaid ſeruant <hi>Raffe Bowes</hi> and his aſſignes a ſcale to ſet vppon ſuch Cardes as hee or his aſſignes or deputies ſhall vtter diſtribute and ſell to the end to make knowne what Cardes haue lawfully paſſed his or their handes, moſt ſtraightly charging and forbidding all euery &amp; our ſubiects whatſoeuer to make, counterfeite, or vſe any ſuch or like ſeale or to ſet the ſame or any other ſcale vpon any playing Cardes vpon paine of impriſonment and our high diſpleaſure. AND further alſo for the better execution of this our ſaide graunt we doe by theſe our letters pa<g ref="char:EOLhyphen"/>tents for vs our heires and ſucceſſors giue and graunt to the ſaid <hi>Raffe Bowes</hi> full power licence and authority that he by himſelfe and vy his aſſignes, Seruants, Factors and deputies ſhall and may at all times and from time to time during the ſaid tearme of twelue yeares enter into any ſhippe bothome, veſſell, boate, ſhoppe, warehouſe, or other place what<g ref="char:EOLhyphen"/>ſoeuer which they or any of them ſhal thinke good within this our Realme or any other our dominions by water or land aſwell within libertie as without and there to trye and ſearche by all waies and meanes for all ſuche playing Cardes as ſhalbe brought in tranſported laide on lande bought ſolde Merchandiſed kept or put to ſale or made or carried foorth of this our Realme or Dominions contrary to the true meaning and intent of theſe our letters patents or of any lawe reſtraint or ſtatute in that behalfe made or ordained, and finding any ſuch to arreſt ſeiſe carrie awaie and deteyne the ſame to the vſe in theſe our letters patents before mencioned and expreſſed. AND furthermore we will &amp; commaund and by theſe preſents for vs our heires and ſucceſſors doe ſtraightly charge and prohibite al and ſinguler our Cuſtomers Collectors and Comptrollers and Fermors of our Cuſtomes and ſubſidies of and within all &amp; euery Borough Towne porte hauen Creeke and other place whatſoeuer within this Realme or any other our Dominions that they nor any of them by themſelues their Clarkes deputies or ſeruaunts receiue or take any Cuſtome or ſubſidie or any other thing in the name or liew of any Cuſtome or ſubſidie or compound or agree or make any compoſition or agreement or any entrye into any booke of or for any Cuſtome ſubſidy or other dutie which ſhal hereafter during the ſaid tearme happen or grow
+<pb facs="tcp:28796:3"/>
+               <pb facs="tcp:28796:3"/>due to vs our heires or ſucceſſors for any playing Cardes which ſhalbe brought into this our Realme or anye other our Dominions or tranſported foorth by any perſon or perſons other then the ſaid <hi>Raffe Bowes</hi> or his aſſignes ſeruaunts fac<g ref="char:EOLhyphen"/>tors or deputies or ſome or one of them. AND further wee will and graunte by theſe preſentes for vs our heires &amp; ſucceſſors that the Treaſourer and Barons of our Exchequer for the time being byforce of this our graunt or the inrel<g ref="char:EOLhyphen"/>ment thereof in the ſame Court at all and euery time and times during the ſaid tearme at &amp; vppon their requeſt of the ſaid <hi>Raffe Bowes</hi> or his aſſignes or any other his or their Attorney factor or deputy ſhall and may make and direct vnder y<hi rend="sup">e</hi> ſeale of the ſame Exchequer ſuch and ſo many writte and writtes cloſe or patent vnto ſuch Maiors Bailifes Sheriffes Fermors of Cuſtoms Cuſtomers Collectors Comptrollers Serchers or other officers of vs our heires or ſucceſſors in ſuch Shieres, Counties, Cities, Boroughes, Ports, Hauens, or Creckes or other places whatſoeuer within any our do<g ref="char:EOLhyphen"/>minions as our ſaid ſeruant or his aſſignes Attorney ſeruant or factor ſhall at any time require commanding and char<g ref="char:EOLhyphen"/>ging them and euery of them thereby that they nor any of them during the ſaid tearme receaue or take anye cuſtome or ſubſidie or anye other thing in the name or liewe of anye Cuſtome or ſubſidie or compounde or agree or make anye compoſicion or agreement or any entrie into any booke of or for any cuſtome ſubſidie or other dutie which ſhal hereafter during the ſaid tearme happen or growe due to vs our heires or ſucceſſors for any maner of playing cardes which ſhalbe brought into this our Realme or any other our Dominions or tranſported or carried foorth of the ſame by anye other perſon or perſons then the ſaid <hi>Raffe Bowes</hi> and his aſſignes Seruants Factors and deputies. And alſo from time to time and at all times during the ſaid tearme they doe in all places within their office or charge carefully and diligentlye trye and ſearch by all waies &amp; meanes for all ſuch playing cardes as by any perſon or perſons other then the ſaide <hi>Raffe Bowes</hi> &amp; his aſſignes ſeruants factors &amp; deputies or ſome of them ſhall within the ſaid tearme be brought &amp; laide on land merchandized bought ſold kept or put to ſale made or tranſported contrary to the tennor of theſe our letters patents or of any lawe proclamation ordinaunce or ſtatute in that behalfe made or ordeyned. And finding any ſuch to arreſt ſeiſe and deliuer the ſame to the ſaid <hi>Raffe Bowes</hi> his aſſignes ſeruants factors and deputies or to ſome of them to the vſe aboue ſpecified. AND further that they do carefully &amp; diligently endeuour the<g ref="char:cmbAbbrStroke">̄</g>ſelues that the intent &amp; true meaning of theſe our letters patents may be duly obſerued. And if in the execution therof they ſhall find any reſiſtance that they certify the ſame vnto the ſaid Exchequor to the end that the offendors therein may receiue condigne puniſhment for the ſame their offences. AND further we will and commaund by theſe preſents that all Maiors Sherifes, Bailifs, Conſtables, Comptrollers, Cuſtummers, Fermors, of cuſtomes, ſerchers and all other our Officers, Miniſters, &amp; Subiects, do not onely permit &amp; ſuffer the ſaid <hi>Raffe Bowes</hi> his aſſignes ſeruants factors &amp; deputies to haue and enioy the full benefit and commodity of this our graunt, but alſo that they be helping aiding &amp; aſſiſting in the execution of the ſame when they ſhalbe therunto required at all times during the ſaid tearme as they will anſwere to the contrary at their vttermoſt pe<g ref="char:EOLhyphen"/>rils, and neuertheleſſe our full will pleaſure &amp; intent is that of our Cuſtomes Subſidies &amp; duties to be paid for any play<g ref="char:EOLhyphen"/>ing Cardes brought or to be brought in or tranſported further by the ſayd <hi>Raffe Bowes</hi> or his aſſines ſeruaunts, factors, or deputies we be dulie anſwered and paied during the ſayd tearme. IN WITNES whereof we haue cauſed theſe our Letters to bee made pattents.</p>
+            <closer>
+               <dateline>WITNES our ſelfe at Weſtminſter <date>the thirtenth daye of Iune the thirtenth yeare of our raigne.</date>
+               </dateline>
+               <signed>Per breue de priuato Sigillo. Kindeſley.</signed>
+            </closer>
+            <closer>God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London by Thomas Purfoote.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
